@@ -2,7 +2,7 @@ name: Generate Lilypond music sheets
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build_sheets:
     runs-on: ubuntu-latest

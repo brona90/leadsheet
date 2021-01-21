@@ -5,7 +5,7 @@ verseI = \lyricmode {
 
 verseII = \lyricmode {
   \set stanza = #"2."
-  This is the second verse.
+  This is the second
 }
 
 theChords = \chordmode {

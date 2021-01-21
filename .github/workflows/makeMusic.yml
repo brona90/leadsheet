@@ -6,6 +6,7 @@ on:
 jobs:
   build_sheets:
     runs-on: ubuntu-latest
+    environment: online_build
     env:
         LILYPOND_FILES: "*.ly"
     steps:

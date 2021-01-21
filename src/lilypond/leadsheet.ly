@@ -10,7 +10,7 @@ verseII = \lyricmode {
 
 theChords = \chordmode {
   % insert chords for chordnames and fretboards here
-  c2 g4 c
+  c2 g4 c d1:7
 }
 
 staffMelody = \relative c' {

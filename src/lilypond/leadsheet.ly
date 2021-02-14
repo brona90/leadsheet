@@ -24,7 +24,7 @@ staffMelody = \relative c' {
 \score {
   <<
     \context ChordNames { \theChords }
-    \context FretBoards { \theChords }
+    % \context FretBoards { \theChords }
     \new Staff {
       \context Voice = "voiceMelody" { \staffMelody }
     }

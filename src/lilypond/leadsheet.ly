@@ -10,14 +10,14 @@ verseII = \lyricmode {
 
 theChords = \chordmode {
   % insert chords for chordnames and fretboards here
-  c2 g4 c
+  c2 g4 c g
 }
 
 staffMelody = \relative c' {
    \key c \major
    \clef treble
    % Type notes for melody here
-   c4 d8 e f4 g a
+   c4 d8 e f4 g
    \bar "|."
 }
 

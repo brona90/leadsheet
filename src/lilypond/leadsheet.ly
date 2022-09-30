@@ -17,7 +17,7 @@ staffMelody = \relative c' {
    \key c \major
    \clef treble
    % Type notes for melody here
-   c4 d8 eb f4 g
+   c4 d8 ees f4 g
    \bar "|."
 }
 
